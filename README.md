@@ -3,18 +3,18 @@
 - 🌱 I’m currently learning Data Science
 
 LANGUAGES:
-SQL
-Python
-Spark
+-SQL
+-Python
+-Spark
 
 TOOLS: 
-Power BI
-Rapid Miner
+-Power BI
+-Rapid Miner
 
 DDBB:
-SQL Server
-Cassandra
-MONGO DB
+-SQL Server
+-Cassandra
+-MONGO DB
 
 <!---
 JulioDominguezTur/JulioDominguezTur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
